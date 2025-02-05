@@ -1,18 +1,18 @@
 ### Description
 
-The Service-App which is clone of Urban-clap.
+The Case Tracker App which is made in company for internal tool.
+multpile user solving the case queue, at that time it has locked and unlocked case for loggedIn User.
 
 ### [live preview]()
 
 [![react Service-app](https://github.com/vinodtambe007/Case-Tracker-React-node/blob/master/Case-Tracker-Vinod.png)]()
+[![react Service-app](https://github.com/vinodtambe007/Case-Tracker-React-node/blob/master/caseTracker-Ankit.png)]()
 
 ### Features
 
 - Fully Responsive
-- Multi-Page Layout
-- Contact Form With EmailJs
-- React-TailwindCss,NodeJs,MongoDB,WebSocet,Express.js
-- Service At Door Step!!!
+- React-TailwindCss,NodeJs,MongoDB,Express.js
+- Case track to put the Track!!!!
 
 ### Setup
 
